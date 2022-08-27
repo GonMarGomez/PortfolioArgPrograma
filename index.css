@@ -119,3 +119,14 @@ text-align: center;
 .form-control{
     font-family: 'Quicksand', sans-serif;
 }
+#RedesSociales{
+    padding-left: 90px;
+    padding-right: 90px;
+    display: flex;
+    background-color: #2d3031;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    filter:alpha(opacity=90);
+-moz-opacity:.90;opacity:.90;
+justify-content: space-between;
+}
